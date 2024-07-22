@@ -1,1 +1,2 @@
 hexlet-my-first-workflow
+[![hello-world](https://github.com/AnnaAndreevnaZemskova/hexlet-my-first-workflow/actions/workflows/workflows.yml/badge.svg)](https://github.com/AnnaAndreevnaZemskova/hexlet-my-first-workflow/actions/workflows/workflows.yml)
